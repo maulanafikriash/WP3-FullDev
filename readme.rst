@@ -10,6 +10,14 @@ interface and logical structure to access these libraries. CodeIgniter lets
 you creatively focus on your project by minimizing the amount of code needed
 for a given task.
 
+*****************
+About Repository
+*****************
+Ini merupakan Repository Web Programming 3 Pustaka-Booking Full Develop
+Semoga Dapat membantu teman-teman yang sedang membuat project yang sama
+
+Salam Sobat UBSI
+
 *******************
 Release Information
 *******************
