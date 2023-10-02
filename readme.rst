@@ -13,8 +13,8 @@ for a given task.
 *****************
 About Repository
 *****************
-Ini merupakan Repository Web Programming 3 Pustaka-Booking Full Develop
-Semoga Dapat membantu teman-teman yang sedang membuat project yang sama
+Ini merupakan Repository Web Programming 3 Pustaka-Booking Full Develop.
+Semoga Dapat membantu teman-teman yang sedang membuat project yang sama.
 
 Salam Sobat UBSI
 
